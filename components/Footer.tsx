@@ -37,7 +37,6 @@ export default function Footer() {
             </a>
           </div>
         </div>
-
         {/* Divider */}
         <div className="my-8 h-px bg-border" />
 

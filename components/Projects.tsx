@@ -14,7 +14,6 @@ const projects = [
   //   technologies: ['React.js', 'Node.js', 'Express.js', 'MongoDB'],
   //   image: jarvis_reach,
   // },
-
   {
     id: 2,
     title: 'School Management System',
