@@ -2,18 +2,18 @@
 
 import Image from 'next/image'
 import ecom from "./assets/ecom.png"
-import jarvis_reach from "./assets/jarvis_reach.png"
+// import jarvis_reach from "./assets/jarvis_reach.png"
 import rhs from "./assets/rhs.png"
 import sms from "./assets/sms.png"
 const projects = [
-  {
-    id: 1,
-    title: 'Jarvis Reach',
-    type: 'Company Project',
-    description: `Worked on a SaaS-based application built using the MERN stack. Developed authentication systems, credit management modules, REST APIs, frontend integrations, API testing, and debugging features.`,
-    technologies: ['React.js', 'Node.js', 'Express.js', 'MongoDB'],
-    image: jarvis_reach,
-  },
+  // {
+  //   id: 1,
+  //   title: 'Jarvis Reach',
+  //   type: 'Company Project',
+  //   description: `Worked on a SaaS-based application built using the MERN stack. Developed authentication systems, credit management modules, REST APIs, frontend integrations, API testing, and debugging features.`,
+  //   technologies: ['React.js', 'Node.js', 'Express.js', 'MongoDB'],
+  //   image: jarvis_reach,
+  // },
 
   {
     id: 2,

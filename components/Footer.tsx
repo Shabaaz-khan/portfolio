@@ -1,7 +1,7 @@
 'use client'
 
-import { Code2, Share2, Mail } from 'lucide-react'
-
+import { Code2 , Mail } from 'lucide-react'
+import { FaLinkedin } from 'react-icons/fa'
 export default function Footer() {
   const currentYear = new Date().getFullYear()
 
@@ -32,7 +32,7 @@ export default function Footer() {
               className="inline-flex items-center gap-2 rounded-lg border border-border bg-background px-4 py-2 font-medium text-foreground transition-colors hover:bg-primary hover:text-primary-foreground"
               aria-label="LinkedIn"
             >
-              <Share2 className="h-5 w-5" />
+              <FaLinkedin    className="h-5 w-5" />
               <span className="hidden sm:inline">LinkedIn</span>
             </a>
           </div>
